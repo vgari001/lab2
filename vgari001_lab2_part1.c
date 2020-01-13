@@ -1,3 +1,10 @@
+/*	Partner: Victoria Albezer
+ *	Lab Section: 022
+ *	Assignment: Lab #2  Exercise #1
+ *	I acknowledge all content contained herein, excluding template or example
+ *	code, is my own original work.
+ */
+
 #include <avr/io.h>
 #ifdef _SIMULATE_
 #include "simAVRHeader.h"
